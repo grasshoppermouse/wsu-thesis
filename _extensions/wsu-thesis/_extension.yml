@@ -1,0 +1,17 @@
+title: WSU Thesis
+author: Ed Hagen
+version: 1.0.0
+quarto-version: ">=1.2.0"
+contributes:
+  project:
+    project:
+      type: book
+  format:
+    html:
+      theme: cosmo
+    pdf:
+      documentclass: scrreprt
+    docx:
+      toc: true
+      number-sections: false
+      reference-doc: custom-reference-doc.docx

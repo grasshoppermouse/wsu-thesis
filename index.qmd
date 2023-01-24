@@ -1,0 +1,56 @@
+
+## Front matter
+
+::: {custom-style="Centered"}
+
+A {{< meta thesis.type >}} submitted in partial fulfillment of
+the requirements for the degree of
+
+[{{< meta thesis.degree >}}]{custom-style="allcaps"}
+
+WASHINGTON STATE UNIVERSITY
+
+{{< meta thesis.department >}}
+
+[{{< meta thesis.month >}} {{< meta thesis.year >}}]{custom-style="allcaps"}
+
+© Copyright by [{{< meta author >}}, {{< meta thesis.year >}}]{custom-style="allcaps"}
+
+All Rights Reserved
+:::
+
+# Acknowledgements
+
+Acknowledgements here
+
+# Abstract
+
+::: {custom-style="Centered"}
+[{{< meta title >}}]{custom-style="allcaps"}
+
+Abstract
+
+by {{< meta author >}}, {{< meta thesis.degree-abbr >}}
+
+Washington State University
+
+{{< meta thesis.month >}} {{< meta thesis.year >}}
+
+Chair: {{< meta thesis.chair >}}
+:::
+
+Please place the body text of the abstract here. There is a strict 350-word limit. The abstract should be left justified and double-spaced. Care must be taken in the preparation of the abstract since ProQuest/UMI Dissertation Publishing will publish this without further editing or revision. No footnotes, references, or unexplained abbreviations are to be used in an abstract. This document must be sufficient to convey a concise and accurate synopsis of significant elements within the manuscript. Doctoral dissertations will be kept digitally in their entirety in the WSU Research Exchange and are available via ProQuest/UMI according to the publication and distribution options you selected while uploading your dissertation draft.
+
+# List of tables
+
+All tables here.
+
+# List of figures
+
+All figures here.
+
+{{< pagebreak >}}
+
+::: {custom-style="Centered"}
+**Dedication**
+:::

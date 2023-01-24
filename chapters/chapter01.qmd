@@ -1,0 +1,9 @@
+# Chapter One: Introduction
+
+This is a book created from markdown and executable code.
+
+## How to use headings and subheadings
+
+Use a single `#` for chapter titles (see above). Use two `##` for a top-level heading, `###` for a second level subheading, and so forth.
+
+See @knuth84 for additional discussion of literate programming.

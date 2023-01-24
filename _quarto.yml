@@ -1,0 +1,38 @@
+project:
+  type: wsu-thesis
+
+book:
+  title: "Women's tobacco use: testing the offspring protection vs. gender inequality hypotheses"
+  author: "Tiffany Alvarez"
+  chapters:
+    - index.qmd
+    - chapters/chapter01.qmd
+    - chapters/chapter02.qmd
+    - chapters/references.qmd
+
+thesis:
+  type: "dissertation"
+  degree: "Doctor of Philosophy"
+  degree-abbr: "PhD"
+  department: "Department of Anthropology"
+  chair: "Edward H. Hagen"
+  month: "April"
+  year: "2024"
+
+bibliography: references.bib
+
+execute:
+  echo: false
+  warning: false
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  docx:
+    toc: true
+    number-sections: false
+    reference-doc: custom-reference-doc.docx
+
+
