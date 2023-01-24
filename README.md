@@ -8,7 +8,7 @@ A [Quarto](https://quarto.org) extension for Washington State University MA thes
 
 ## Installing
 
-In a terminal (not the R console), enter:
+If you haven't already, [install Quarto](https://quarto.org/docs/get-started/). Then, in a terminal (not the R console), enter:
 
 ```bash
 quarto use template grasshoppermouse/wsu-thesis
@@ -20,7 +20,7 @@ This will install the extension and create example `index.qmd` and `chapter.qmd`
 
 Edit the `_quarto.yml` file with your information, e.g., name, thesis title, degree, and so forth.
 
-The `index.qmd` file is required, and contains the title page and other front matter that will be filled in with the information in the `_quarto.yml` file. The `chapter` folder contains stub `chapter.qmd` files. Number of the files in order, and add the file names to the `_quarto.qmd` file.
+The `index.qmd` file is required, and contains the title page and other front matter that will be filled in with the information in the `_quarto.yml` file. The `chapter` folder contains stub `chapter.qmd` files. Number the chapter files in order, and add the file names to the `_quarto.qmd` file.
 
 ## Note
 
